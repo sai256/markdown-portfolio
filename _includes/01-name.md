@@ -1,2 +1,4 @@
 ## REDDY SAI KUMAR, PIGILETI 
-#### sai.pigileti@gmail.com
+#### email: sai.pigileti@gmail.com
+#### Location : Tampa FL, NewJersey
+#### Home Country : INDIA
