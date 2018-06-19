@@ -1,6 +1,2 @@
----
-layout: default
----
 
-{% include 01-name.md %}
-
+![12802739_1080594905336461_3409890510389039448_n](https://user-images.githubusercontent.com/25535250/41624752-95dafa0c-73e4-11e8-8bce-e1b576aa2a67.jpg)
