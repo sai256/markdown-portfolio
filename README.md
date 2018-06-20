@@ -1,6 +1,6 @@
 ## REDDY SAI KUMAR, PIGILETI 
 #### email: sai.pigileti@gmail.com
-#### Location : Tampa FL 
+#### Location : Tampa,FL UNITED STATES 
 #### Home Country : INDIA
 #### Education : Master's Degree in Eletrical and Computer Engineering from Gannon University
 ![11](https://user-images.githubusercontent.com/25535250/41634899-ddd2eade-7413-11e8-9e64-edb92db11917.jpg)
