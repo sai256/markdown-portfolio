@@ -5,10 +5,12 @@
 #### Home Country : INDIA
 #### Education : Master's Degree in Eletrical and Computer Engineering from Gannon University
 ![11](https://user-images.githubusercontent.com/25535250/41634899-ddd2eade-7413-11e8-9e64-edb92db11917.jpg)
-#### Please find the resume below or you can download from here: [Sai-cv.1.docx](https://github.com/sai256/markdown-portfolio/files/2117692/Sai-cv.1.docx)
+#### Please find the resume below or you can download from here: [Sai-cv.1.docx](https://github.com/sai256/github-pages-with-jekyll/files/2128716/Sai-cv.1.docx)
 
-![d26510a9c36e377a40a7b483363a7c3d-0](https://user-images.githubusercontent.com/25535250/41634609-8900ad58-7412-11e8-9098-f5352d1af488.jpg)![d26510a9c36e377a40a7b483363a7c3d-1](https://user-images.githubusercontent.com/25535250/41634610-8910114e-7412-11e8-97df-2b233135bc69.jpg)![d26510a9c36e377a40a7b483363a7c3d-2](https://user-images.githubusercontent.com/25535250/41634611-891f9efc-7412-11e8-9204-3098d964e609.jpg)
-![d26510a9c36e377a40a7b483363a7c3d-3](https://user-images.githubusercontent.com/25535250/41634612-892caed0-7412-11e8-9b90-323e6f3ddbea.jpg)
-![d26510a9c36e377a40a7b483363a7c3d-4](https://user-images.githubusercontent.com/25535250/41634613-89417d92-7412-11e8-938d-5e0c6263d0a0.jpg)
 
+![55349dbeea4a4c829140ef8bc5428bf4-0](https://user-images.githubusercontent.com/25535250/41792986-aebca6a6-7628-11e8-8747-08350ac09f7a.jpg)
+![55349dbeea4a4c829140ef8bc5428bf4-1](https://user-images.githubusercontent.com/25535250/41792987-aed87282-7628-11e8-953a-3efd22c8c938.jpg)
+![55349dbeea4a4c829140ef8bc5428bf4-2](https://user-images.githubusercontent.com/25535250/41792988-aeeb65ea-7628-11e8-8d47-e62ed2bf32ba.jpg)
+![55349dbeea4a4c829140ef8bc5428bf4-3](https://user-images.githubusercontent.com/25535250/41792989-aefe6b22-7628-11e8-96c8-c892a72b582d.jpg)
+![55349dbeea4a4c829140ef8bc5428bf4-4](https://user-images.githubusercontent.com/25535250/41792990-af1e7412-7628-11e8-9b8f-20aa538cf652.jpg)
 
