@@ -5,8 +5,7 @@
 #### Home Country : INDIA
 #### Education : Master's Degree in Eletrical and Computer Engineering from Gannon University
 ![11](https://user-images.githubusercontent.com/25535250/41634899-ddd2eade-7413-11e8-9e64-edb92db11917.jpg)
-#### Please find the resume below or you can download from here: [Sai-cv.1.docx](https://github.com/sai256/github-pages-with-jekyll/files/2128716/Sai-cv.1.docx)
-
+#### Please find the resume below or you can download from here: [Sai-cv.1.docx](https://github.com/sai256/markdown-portfolio/files/2133326/Sai-cv.1.docx)
 
 ![55349dbeea4a4c829140ef8bc5428bf4-0](https://user-images.githubusercontent.com/25535250/41792986-aebca6a6-7628-11e8-8747-08350ac09f7a.jpg)
 ![55349dbeea4a4c829140ef8bc5428bf4-1](https://user-images.githubusercontent.com/25535250/41792987-aed87282-7628-11e8-953a-3efd22c8c938.jpg)
